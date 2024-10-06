@@ -5,4 +5,4 @@ Sending continuous seismic data back to Earth requires a lot of power. Also only
 
 In this project we write a computer program to analyze real data from the Apollo missions and the Mars InSight Lander to identify seismic quakes within the noise!
 
-[Separating the signal from the noise](https://github.com/sharonli/tremortrackers/images/normal.png "Separating the signal from the noise")
+[Separating the signal from the noise](images/normal.png "Separating the signal from the noise")
